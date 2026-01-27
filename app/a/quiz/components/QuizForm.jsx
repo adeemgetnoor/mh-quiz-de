@@ -182,7 +182,7 @@ const QuizForm = ({ onComplete }) => {
                   className={styles["quiz-form"]}
                 >
                   <div className={styles["form-group"]}>
-                    <label>Voornaam</label>
+                    <label>Voornaam(name)</label>
                     <input
                       type="text"
                       value={formData.name}
